@@ -22,8 +22,10 @@ This project illustrates the behavior of the following Angular lifecycle hooks, 
 
 ### Frontend:
 
-* [**Angular**](https://angular.io/) - Framework for building the user interface.
-* **HTML & CSS** - For the basic structure and styling of the application.
+* **[Angular](https://angular.io/) (v19.2.14, with Signals):** The core framework for building the user interface, leveraging its powerful built-in and custom pipes, along with reactive state management through Signals.
+* **[TypeScript](https://www.typescriptlang.org/) (~5.7.2):** The base programming language that adds static typing.
+* **[RxJS](https://rxjs.dev/) (~7.8.0):** For managing asynchronous data streams and reactive programming within Angular.
+* **HTML & CSS** - For basic application structure and styling.
 
 ---
 
