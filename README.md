@@ -22,7 +22,9 @@ Este proyecto ilustra el comportamiento de los siguientes hooks del ciclo de vid
 
 ### Frontend:
 
-* [**Angular**](https://angular.io/) - Framework para la construcción de la interfaz de usuario.
+* **[Angular](https://angular.io/) (v19.2.14, con Signals):** El framework principal para construir la interfaz de usuario, aprovechando sus potentes pipes integrados y personalizados, junto con la gestión de estado reactivo mediante Signals.
+* **[TypeScript](https://www.typescriptlang.org/) (~5.7.2):** El lenguaje de programación base que añade tipado estático.
+* **[RxJS](https://rxjs.dev/) (~7.8.0):** Para la gestión de flujos de datos asíncronos y programación reactiva dentro de Angular.
 * **HTML & CSS** - Para la estructura y estilos básicos de la aplicación.
 
 ---
